@@ -5,8 +5,12 @@ public class MultiplyTwoNumbers {
         float first = 1.5f;
         float second = 2.0f;
 
-        float product = first * second;
+        float product = first + second;
 
+<<<<<<< .merge_file_Chktrr
         System.out.println("The product is: "  product);
+=======
+        System.out.println("The product is: "  product);
+>>>>>>> .merge_file_LUg3or
     }
 }
